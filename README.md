@@ -2,13 +2,13 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 ## Installation
 Öncellikle projeyi clonlayin
-# code block
+```
 git clone https://github.com/hgokhanalabucak/kodluyoruzilkrepo
 ```
 ## Usage
-# code block
 Projeyi klonladiktan sonra Visual Studio Code programinda açiniz.
 Linux için:
+```
 cd kodluyoruzilkrepo
 code .
 ```
