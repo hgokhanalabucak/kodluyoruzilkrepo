@@ -4,14 +4,14 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 Öncellikle projeyi clonlayin
 # code block
 git clone https://github.com/hgokhanalabucak/kodluyoruzilkrepo
-'''
+```
 ## Usage
 # code block
 Projeyi klonladiktan sonra Visual Studio Code programinda açiniz.
 Linux için:
 cd kodluyoruzilkrepo
 code .
-'''
+```
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açiniz.
 ## License
