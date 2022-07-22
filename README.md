@@ -17,4 +17,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Projenin resmi](https://github.com/hgokhanalabucak/kodluyoruzilkrepo)
